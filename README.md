@@ -11,4 +11,4 @@ FFMPEG is a LGPL licensed open-source project used for converting and changing v
 
 **'Disclaimer: I am not, in any way, connected to FFMPEG project.'**
 
-[a link](https://ffmpeg.org/)
+[FFMPEG site](https://ffmpeg.org/)
