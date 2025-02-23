@@ -274,10 +274,10 @@ void SetupBackend(void)
 
     ImGuiPlatformIO& platformIO = ImGui::GetPlatformIO();
 
-    /*platformIO.Platform_SetClipboardTextFn = SetClipTextCallback;
+    platformIO.Platform_SetClipboardTextFn = SetClipTextCallback;
     platformIO.Platform_GetClipboardTextFn = GetClipTextCallback;
     
-    platformIO.Platform_ClipboardUserData = nullptr;*/
+    platformIO.Platform_ClipboardUserData = nullptr;
 }
 
 void rlImGuiEndInitImGui(void)
